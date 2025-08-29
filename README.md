@@ -1,0 +1,1 @@
+# StocksManager_2025
